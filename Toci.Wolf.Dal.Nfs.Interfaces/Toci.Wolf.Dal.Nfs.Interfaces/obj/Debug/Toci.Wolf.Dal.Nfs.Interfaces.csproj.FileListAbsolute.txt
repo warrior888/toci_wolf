@@ -1,0 +1,5 @@
+C:\Users\bzapa\source\repos\warrior888\toci_wolf\Toci.Wolf.Dal.Nfs.Interfaces\Toci.Wolf.Dal.Nfs.Interfaces\bin\Debug\Toci.Wolf.Dal.Nfs.Interfaces.dll
+C:\Users\bzapa\source\repos\warrior888\toci_wolf\Toci.Wolf.Dal.Nfs.Interfaces\Toci.Wolf.Dal.Nfs.Interfaces\bin\Debug\Toci.Wolf.Dal.Nfs.Interfaces.pdb
+C:\Users\bzapa\source\repos\warrior888\toci_wolf\Toci.Wolf.Dal.Nfs.Interfaces\Toci.Wolf.Dal.Nfs.Interfaces\obj\Debug\Toci.Wolf.Dal.Nfs.Interfaces.csprojAssemblyReference.cache
+C:\Users\bzapa\source\repos\warrior888\toci_wolf\Toci.Wolf.Dal.Nfs.Interfaces\Toci.Wolf.Dal.Nfs.Interfaces\obj\Debug\Toci.Wolf.Dal.Nfs.Interfaces.dll
+C:\Users\bzapa\source\repos\warrior888\toci_wolf\Toci.Wolf.Dal.Nfs.Interfaces\Toci.Wolf.Dal.Nfs.Interfaces\obj\Debug\Toci.Wolf.Dal.Nfs.Interfaces.pdb

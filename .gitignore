@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/Toci.Wolf.Dal.Nfs.Interfaces/.vs/Toci.Wolf/v16/Server/sqlite3
