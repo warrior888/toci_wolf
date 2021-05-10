@@ -31,3 +31,6 @@
 *.out
 *.app
 /Toci.Wolf.Dal.Nfs.Interfaces/.vs/Toci.Wolf/v16/Server/sqlite3
+/Toci.Rescue/Toci.Rescue/obj
+/Toci.Rescue/Toci.Rescue.Tests/bin/Debug/net5.0
+/Toci.Wolf.Dal.Nfs.Interfaces

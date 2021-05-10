@@ -1,0 +1,12 @@
+D:\Toci\Code\Wolf\Toci.Rescue\Toci.Rescue.Integrator.Interfaces\bin\Debug\net5.0\Toci.Rescue.Integrator.Interfaces.deps.json
+D:\Toci\Code\Wolf\Toci.Rescue\Toci.Rescue.Integrator.Interfaces\bin\Debug\net5.0\Toci.Rescue.Integrator.Interfaces.dll
+D:\Toci\Code\Wolf\Toci.Rescue\Toci.Rescue.Integrator.Interfaces\bin\Debug\net5.0\ref\Toci.Rescue.Integrator.Interfaces.dll
+D:\Toci\Code\Wolf\Toci.Rescue\Toci.Rescue.Integrator.Interfaces\bin\Debug\net5.0\Toci.Rescue.Integrator.Interfaces.pdb
+D:\Toci\Code\Wolf\Toci.Rescue\Toci.Rescue.Integrator.Interfaces\obj\Debug\net5.0\Toci.Rescue.Integrator.Interfaces.csprojAssemblyReference.cache
+D:\Toci\Code\Wolf\Toci.Rescue\Toci.Rescue.Integrator.Interfaces\obj\Debug\net5.0\Toci.Rescue.Integrator.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Toci\Code\Wolf\Toci.Rescue\Toci.Rescue.Integrator.Interfaces\obj\Debug\net5.0\Toci.Rescue.Integrator.Interfaces.AssemblyInfoInputs.cache
+D:\Toci\Code\Wolf\Toci.Rescue\Toci.Rescue.Integrator.Interfaces\obj\Debug\net5.0\Toci.Rescue.Integrator.Interfaces.AssemblyInfo.cs
+D:\Toci\Code\Wolf\Toci.Rescue\Toci.Rescue.Integrator.Interfaces\obj\Debug\net5.0\Toci.Rescue.Integrator.Interfaces.csproj.CoreCompileInputs.cache
+D:\Toci\Code\Wolf\Toci.Rescue\Toci.Rescue.Integrator.Interfaces\obj\Debug\net5.0\Toci.Rescue.Integrator.Interfaces.dll
+D:\Toci\Code\Wolf\Toci.Rescue\Toci.Rescue.Integrator.Interfaces\obj\Debug\net5.0\ref\Toci.Rescue.Integrator.Interfaces.dll
+D:\Toci\Code\Wolf\Toci.Rescue\Toci.Rescue.Integrator.Interfaces\obj\Debug\net5.0\Toci.Rescue.Integrator.Interfaces.pdb

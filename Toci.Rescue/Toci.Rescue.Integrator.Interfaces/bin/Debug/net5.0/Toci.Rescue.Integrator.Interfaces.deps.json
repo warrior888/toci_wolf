@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Toci.Rescue.Integrator.Interfaces/1.0.0": {
+        "runtime": {
+          "Toci.Rescue.Integrator.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Toci.Rescue.Integrator.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
