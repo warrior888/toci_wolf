@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Toci.Rescue.Integrator.Interfaces
 {
-    interface IEntity // encja firmy, bezrobotnego i nieruchomosci - bazowy
+    public interface IEntity // encja firmy, bezrobotnego i nieruchomosci - bazowy
     {
         int id { get; set; }
         string name { get; set; }

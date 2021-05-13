@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Toci.Rescue.Integrator.Interfaces
 {
-    interface IIntegratorEntity
+    public interface IIntegratorEntity
     {
         Dictionary<string, ICompany> Companies { get; set; }
         Dictionary<string, IUnemployed> Unemployed { get; set; }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Toci.Rescue.Integrator.Interfaces
 {
-    interface IIntegrator
+    public interface IIntegrator
     {
         IIntegratorEntity Collocate(List<IIntegratorEntity> set);
 

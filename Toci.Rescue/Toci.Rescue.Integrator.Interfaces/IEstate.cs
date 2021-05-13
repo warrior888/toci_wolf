@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Toci.Rescue.Integrator.Interfaces
 {
-    interface IEstate : IEntity
+    public interface IEstate : IEntity
     {
         string street { get; set; }
         int building_number { get; set; }
