@@ -1,28 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Toci\\Code\\Wolf\\Toci.Rescue\\Toci.Rescue.Integrator.Interfaces\\Toci.Rescue.Integrator.Interfaces.csproj": {}
+    "D:\\Toci Rescue C#\\toci_wolf\\Toci.Rescue\\Toci.Rescue.Integrator.Interfaces\\Toci.Rescue.Integrator.Interfaces.csproj": {}
   },
   "projects": {
-    "D:\\Toci\\Code\\Wolf\\Toci.Rescue\\Toci.Rescue.Integrator.Interfaces\\Toci.Rescue.Integrator.Interfaces.csproj": {
+    "D:\\Toci Rescue C#\\toci_wolf\\Toci.Rescue\\Toci.Rescue.Integrator.Interfaces\\Toci.Rescue.Integrator.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Toci\\Code\\Wolf\\Toci.Rescue\\Toci.Rescue.Integrator.Interfaces\\Toci.Rescue.Integrator.Interfaces.csproj",
+        "projectUniqueName": "D:\\Toci Rescue C#\\toci_wolf\\Toci.Rescue\\Toci.Rescue.Integrator.Interfaces\\Toci.Rescue.Integrator.Interfaces.csproj",
         "projectName": "Toci.Rescue.Integrator.Interfaces",
-        "projectPath": "D:\\Toci\\Code\\Wolf\\Toci.Rescue\\Toci.Rescue.Integrator.Interfaces\\Toci.Rescue.Integrator.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\bzapa\\.nuget\\packages\\",
-        "outputPath": "D:\\Toci\\Code\\Wolf\\Toci.Rescue\\Toci.Rescue.Integrator.Interfaces\\obj\\",
+        "projectPath": "D:\\Toci Rescue C#\\toci_wolf\\Toci.Rescue\\Toci.Rescue.Integrator.Interfaces\\Toci.Rescue.Integrator.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Aksel\\.nuget\\packages\\",
+        "outputPath": "D:\\Toci Rescue C#\\toci_wolf\\Toci.Rescue\\Toci.Rescue.Integrator.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\bzapa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Aksel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -61,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

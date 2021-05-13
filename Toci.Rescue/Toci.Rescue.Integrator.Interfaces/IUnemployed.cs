@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Toci.Rescue.Integrator.Interfaces
 {
-    public interface IUnemployed : IEntity
+    interface IUnemployed : IEntity
     {
+        string surname { get; set; }
+        string[] skills { get; set; }
     }
 }

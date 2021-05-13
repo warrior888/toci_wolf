@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Toci.Rescue.Integrator.Interfaces
 {
-    public interface ICompany : IEntity
+    interface ICompany : IEntity
     {
+        string field { get; set; }
+        int max_emploees { get; set; }
+        IEstate address {get;set; }
     }
 }

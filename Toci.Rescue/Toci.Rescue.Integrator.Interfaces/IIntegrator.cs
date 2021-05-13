@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Toci.Rescue.Integrator.Interfaces
 {
-    public interface IIntegrator
+    interface IIntegrator
     {
         IIntegratorEntity Collocate(List<IIntegratorEntity> set);
+
+        //dalszy kod
     }
 }
