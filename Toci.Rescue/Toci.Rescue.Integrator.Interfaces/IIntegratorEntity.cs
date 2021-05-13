@@ -19,5 +19,21 @@ namespace Toci.Rescue.Integrator.Interfaces
             this.Unemployed = Unemployed;
             this.Estate = Estate;
         }
+
+        public void addCompany(string Key,ICompany Company)
+        {
+            this.Companies.Add(Key, Company);
+        }
+
+        public void addUnemployed(string Key, IUnemployed Unemployed)
+        {
+            this.Unemployed.Add(Key, Unemployed);
+        }
+
+        public void addEstate(string Key, IEstate Estate)
+        {
+            this.Estate.Add(Key, Estate);
+        }
+
     }
 }
